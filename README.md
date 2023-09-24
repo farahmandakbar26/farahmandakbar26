@@ -1,4 +1,4 @@
-@farahmandakbar26 farahmandakbar26 نظر داد ۴ دقیقه پیش
+# farahmandakbar26 نظر داد ۴ دقیقه پیش
 نام: CI
 
 در: github.com/farahmandakbar26/desktop/edit/development/.github/workflows/ci.yml
@@ -17,3 +17,4 @@ name: Lint اجرا می‌شود: ubuntu-آخرین مراحل: - موارد ا
 یادداشت های انتشار
 یادداشت:
 
+is:open is:issue author:farahmandakbar26
