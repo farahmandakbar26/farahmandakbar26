@@ -1,12 +1,19 @@
-echo "# farahmandakbar26" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/farahmandakbar26/farahmandakbar26.git
- git push - تو مبدا اصلیgit remote add origin https://github.com/farahmandakbar26/farahmandakbar26.git
- git branch -M main 
-git push -u origin main
-.github/workflows/webpack.yml
-https://github.dev/farahmandakbar26/farahmandakbar26/blob/main/README.md
-https://github.com/farahmandakbar26/nodejs/compare/main...farahmandakbar26-patch-1?quick_pull=1
+@farahmandakbar26 farahmandakbar26 نظر داد ۴ دقیقه پیش
+نام: CI
+
+در: github.com/farahmandakbar26/desktop/edit/development/.github/workflows/ci.yml
+فشار:
+شاخه‌ها:
+- توسعه pull_request: workflow_call: ورودی‌ها: مخزن: پیش‌فرض: دسکتاپ/دسکتاپ مورد نیاز: نوع نادرست: رشته ref: مورد نیاز : نوع واقعی: رشته آپلود-مصنوعات: پیش‌فرض: نادرست مورد نیاز: نوع نادرست: محیط بولی: نوع: رشته مورد نیاز: اسرار واقعی: DESKTOP_OAUTH_CLIENT_ID: DESKTOP_OAUTH_CLIENT_SECRET: APPLE_ID: APPLE_ID_PASSWORD: APPLE_ID_PASSWORD: APPLE_ID_PASSWORD: APPLE_ID_PASSWORD WINDOWS_CERT_PFX: WINDOWS_CERT_PASSWORD:
+
+jobs:
+lint:
+name: Lint اجرا می‌شود: ubuntu-آخرین مراحل: - موارد استفاده: actions/checkout@v3 با: مخزن: ${{ inputs.repository || github.repository }}
+
+بستن #[شماره شماره]
+
+شرح
+اسکرین شات ها
+یادداشت های انتشار
+یادداشت:
+
